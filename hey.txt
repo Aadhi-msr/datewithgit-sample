@@ -2,4 +2,8 @@ hey friends
 
 this is git practice
 
+
 second edit to make conflict by making a difference.
+
+conflicting by editing the same file.
+
