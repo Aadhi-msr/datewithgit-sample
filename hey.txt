@@ -1,3 +1,5 @@
 hey friends
 
 this is git practice
+
+second edit to make conflict by making a difference.
